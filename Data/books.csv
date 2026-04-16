@@ -1,20 +1,20 @@
 key,traittype,trait,stats,title,creator,comment,copies,language
 Bible,    Ability,Church Lore, L3Q3, The Bible, Various Authors,,1,
 Bible,    Ability,Theology,   L10Q3, The Bible, Various Authors,,1,
-CreoRoot,     Art,Creo,      L6Q21, "Growing, Healing, and Creation", Benedict of Bonisagus,,1,
-IntellegoRoot,Art,Intellego, L7Q20, "The Sight of the Wise One",,,1,
-PerdoRoot,    Art,Perdo,     L7Q21, "Words of Termination",,,1,
-RegoL14Q11,   Art,Rego,      L14Q11, "The Voice of the Master ",,,1,
-AnimalRoot,   Art,Animal,    L8Q18, "Spirits of the Wild",,,1,
-AquamRoot,    Art,Animal,    L8Q18, "Everything flows",,,1,
-CorpusL10Q14, Art,Corpus,    L10Q14, "Apprentice's primer on the body",,,1,
-HerbamRoot,   Art,Herbam,    L8Q18, "Roots First", Horatio of Bonisagus,"Root of the art.  Written by a Diedne magus, this book was saved during the Schism book, and a clever magus recognising its quality rebound it with a false cover sheet. It was widely copied and distributed and gained a reputation as a Root of the Art, and nobody seems to know its dark secret.",1,
-ImaginemRoot, Art,Imaginem,  L7Q19, "Visions and Sounds for the Young Gifted",,,1,
-MentemRoot,   Art,Imaginem,  L6Q24, "Spirit and Mind for the Wizard in Spe",,,1,
-TerramL11Q12, Art,Terram,    L11Q12, "From Dust to Gemstone", Augustus Terranus of Guernicus, , 1 ,
-VimL10Q13,    Art,Vim,       L10Q13, "Magic Companion", Bella of Bonisagus , ,1,
-NorwayQ8,     Ability,Norway Lore, Q8, "Ågrip af Nòregs konunga sögum", Unknown author,,1,West Norse
-IrelandQ8,    Ability,Ireland Lore, Q8, "Travels in Hibernia", ,1,
-HighlandsQ8,  Ability,Scottish Highlands Lore, Q8, "Clans of the Highlands", Donald MacFergus,,1,Gaelic
-ShetlandQ8,   Ability,Shetlands Lore, Q8, "Hjaltland", ,,1,Latin
+CreoRoot,     Art,Creo,      L6Q21,"Growing, Healing, and Creation", Benedict of Bonisagus,,1,
+IntellegoRoot,Art,Intellego, L7Q20,"The Sight of the Wise One",,,1,
+PerdoRoot,    Art,Perdo,     L7Q21,"Words of Termination",,,1,
+RegoL14Q11,   Art,Rego,      L14Q11,"The Voice of the Master ",,,1,
+AnimalRoot,   Art,Animal,    L8Q18,"Spirits of the Wild",,,1,
+AquamRoot,    Art,Animal,    L8Q18,"Everything flows",,,1,
+CorpusL10Q14, Art,Corpus,    L10Q14,"Apprentice's primer on the body",,,1,
+HerbamRoot,   Art,Herbam,    L8Q18,"Roots First", Horatio of Bonisagus,"Root of the art.  Written by a Diedne magus, this book was saved during the Schism book, and a clever magus recognising its quality rebound it with a false cover sheet. It was widely copied and distributed and gained a reputation as a Root of the Art, and nobody seems to know its dark secret.",1,
+ImaginemRoot, Art,Imaginem,  L7Q19,"Visions and Sounds for the Young Gifted",,,1,
+MentemRoot,   Art,Imaginem,  L6Q24,"Spirit and Mind for the Wizard in Spe",,,1,
+TerramL11Q12, Art,Terram,    L11Q12,"From Dust to Gemstone", Augustus Terranus of Guernicus, , 1 ,
+VimL10Q13,    Art,Vim,       L10Q13,"Magic Companion", Bella of Bonisagus , ,1,
+NorwayQ8,     Ability,Norway Lore, Q8,"Ågrip af Nòregs konunga sögum", Unknown author,,1,West Norse
+IrelandQ8,    Ability,Ireland Lore, Q8,"Travels in Hibernia", ,,1,
+HighlandsQ8,  Ability,Scottish Highlands Lore, Q8,"Clans of the Highlands", Donald MacFergus,,1,Gaelic
+ShetlandQ8,   Ability,Shetlands Lore, Q8,"Hjaltland", ,,1,Latin
 FaerieQ9,     Ability,Faerie Lore, Q9, The Fair Folk, , ,1,
