@@ -1,0 +1,16 @@
+concept:
+  name: Esperania
+  tribunal: Loch Leglean
+  concept: Player Covenant
+  description: >
+    Esperania is a Winter Covenant situated on the Inner Hebrides.
+  appearance: >
+    The covenant buildings are built around a cloister, but are now
+    falling apart.  The old tower in one of the corners is completely
+    collapsed, and the rest is also in poor repair.
+  founded: 10th Century
+history: []
+plan:
+- season: Spring 1205
+state:
+  librarycsv: Data/books.csv
