@@ -1,21 +1,21 @@
 charID: Janne
 concept:
+  name: Janne
+  charType: Companion
+  concept: Turb Captain
   appearance: >
     TODO
   born: 1170
   charData:
     Size: 0
   charGlance: {}
-  charType: Companion
-  concept: Turb Captain
-  name: Tessa Tanagh
-  player: George
+  player: TBD
   quirk: TBD
 futureAdvancement: []
 pregameAdvancement:
 - changes:
-  - ability: 'Native Language: Irish'
-    spec: Munster
+  - ability: 'Native Language: Gaelic'
+    spec: Hebrides
     xp: 75
   - cost: 1
     virtue: Warrior

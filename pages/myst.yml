@@ -1,0 +1,17 @@
+# See docs at: https://mystmd.org/guide/frontmatter
+version: 1
+project:
+  id: 708a0b56-6179-4bd6-afe1-3f9daf7ec7d5
+  title: harm test site
+  # description:
+  keywords: 
+    - testing
+    - Ars Magica
+  # authors: []
+  github: https://github.com/ars-magica/harm-test
+  # To autogenerate a Table of Contents, run "jupyter book init --write-toc"
+site:
+  template: book-theme
+  # options:
+  #   favicon: favicon.ico
+  #   logo: site_logo.png
