@@ -13,7 +13,8 @@ concept:
   quirk: TBD
 futureAdvancement: []
 pregameAdvancement:
-- changes:
+- mode: Virtues and Flaws
+  changes:
   - ability: 'Native Language: Gaelic'
     spec: Hebrides
     xp: 75
@@ -34,7 +35,6 @@ pregameAdvancement:
     score: 3
   - ptrait: Helpful
     score: 1
-  mode: Virtues and Flaws
 - changes:
   - characteristic: Int
     score: 0
