@@ -11,6 +11,19 @@ concept:
   founded: 986
 history: []
 plan:
+- season: Game Start
+  acquired:
+  - bookID: Bible
+    title: The Bible
+    creator: Various Authors
+    comment: This is an old and worn copy.
+    stats:
+      - ability: Church Lore
+        level: 3
+        quality: 3
+      - ability: Theology
+        level: 10
+        quality: 3
 - season: Spring 1205
 state:
   librarycsv: Data/books.csv
