@@ -20,15 +20,6 @@ pregameAdvancement:
     xp: 75
   - cost: 1
     virtue: Warrior
-  - cost: 1
-    detail: Dex
-    multiplicity: 2
-    virtue: Great Characteristic
-  - cost: -1
-    flaw: Small Frame
-  - cost: -1
-    detail: Easily stressed and evasive in social contact
-    flaw: Social handicap
   - cost: -1
     flaw: Overconfident
   - ptrait: Curious
@@ -39,36 +30,36 @@ pregameAdvancement:
   - characteristic: Int
     score: 0
   - characteristic: Per
-    score: 2
+    score: -1
   - characteristic: Pre
     score: 0
   - characteristic: Com
-    score: -2
+    score: 1
   - characteristic: Str
-    score: -1
+    score: 2
   - characteristic: Sta
-    score: 1
+    score: 2
   - characteristic: Dex
-    score: 3
-  - characteristic: Qik
     score: 1
+  - characteristic: Qik
+    score: 0
   mode: Characteristics
 - changes:
   - ability: Stealth
     spec: Hiding
-    xp: 15
+    xp: 5
   - ability: Awareness
     spec: Good ears
-    xp: 15
+    xp: 5
   - ability: Survival
     spec: Hills
-    xp: 5
-  - ability: Munster Lore
-    spec: Outback
+    xp: 15
+  - ability: Inner Hebrides Lore
+    spec: Allies
     xp: 5
   - ability: Brawl
     spec: Dodge
-    xp: 5
+    xp: 15
   mode: Early Childhood
 - changes:
   - ability: Animal Handling

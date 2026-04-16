@@ -18,10 +18,12 @@ plan:
     creator: Various Authors
     comment: This is an old and worn copy.
     stats:
-      - ability: Church Lore
+      - topic:
+          ability: Church Lore
         level: 3
         quality: 3
-      - ability: Theology
+      - topic:
+          ability: Theology
         level: 10
         quality: 3
 - season: Spring 1205
