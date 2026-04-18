@@ -10,8 +10,9 @@ concept:
     collapsed, and the rest is also in poor repair.
   founded: 986
 history: []
-plan:
+design:
 - season: Game Start
+  bookcsv: Data/books.csv
   acquired:
   - bookID: Bible
     title: The Bible
@@ -26,6 +27,5 @@ plan:
           ability: Theology
         level: 10
         quality: 3
+- season: Winter 1204
 - season: Spring 1205
-state:
-  librarycsv: Data/books.csv

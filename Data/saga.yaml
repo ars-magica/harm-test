@@ -8,7 +8,9 @@ characterFiles:
 covenantFiles:
 - Data/covenant.yaml
 seasons:
+- Spring 1204
 - Spring 1205
+- Spring 1206
 spellFile: Data/spells.csv
 weaponFile: Data/weapons.csv
 armourFile: Data/armour.csv
