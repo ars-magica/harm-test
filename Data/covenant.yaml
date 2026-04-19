@@ -27,5 +27,7 @@ design:
           ability: Theology
         level: 10
         quality: 3
+plan:
 - season: Winter 1204
+  bookcsv: Data/books.csv
 - season: Spring 1205

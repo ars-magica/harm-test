@@ -11,6 +11,12 @@ concept:
   charGlance: {}
   player: TBD
   quirk: TBD
+plan:
+  - season: Spring 1205
+    mode: Exposure
+    changes:
+      - ability: Single Weapon
+        xp: 2
 futureAdvancement: []
 pregameAdvancement:
 - mode: Virtues and Flaws
