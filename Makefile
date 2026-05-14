@@ -3,7 +3,9 @@
 H=../harm/bin/harm
 F=Data/covenant.yaml Data/janne.yaml
 
-pages: Data/saga.yaml $F
+pages: Data/saga.yaml $F .force
 	mkdir -p $@
 	$H --saga $<
 	touch pages
+
+.force:
