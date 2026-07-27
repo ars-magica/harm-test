@@ -4,7 +4,7 @@ concept:
   born: 1230
   charData:
     Alma Mater: Trablinum of Transilvania
-    Casting Sigil: Rocking as of
+    Casting Sigil: Rocking as if in rough sea
     Covenant: Zakiadnu
     Nationality: Ukrainian
     Saga: Novgorod Multi-Covenant Saga
@@ -156,7 +156,7 @@ pregameAdvancement:
   - art: Intellego
     xp: 55
   - art: Muto
-    xp: 15
+    xp: 0
   - art: Perdo
     xp: 0
   - art: Rego
@@ -172,20 +172,20 @@ pregameAdvancement:
   - art: Herbam
     xp: 0
   - art: Ignem
-    xp: 0
+    xp: 3
   - art: Imaginem
     xp: 0
   - art: Mentem
     xp: 0
   - art: Terram
-    xp: 15
+    xp: 3
   - art: Vim
     xp: 0
   - ability: Hermes Lore
     spec: Hibernia
     xp: 5
   - ability: Artes Liberales
-    spec: Ritual Casting
+    spec: Ceremonial Casting
     xp: 5
   - ability: Latin
     spec: Hermetic Usage
@@ -213,6 +213,24 @@ pregameAdvancement:
   - ability: Penetration
     spec: Rego
     xp: 5
+  - level: 20
+    spell: Vision of Heat's Light
+    tefo: InIg
+  - level: 20
+    spell: The Miner's Keen Eye
+    tefo: InTe
+  - level: 10
+    spell: Winter's Icy Touch
+    tefo: PeIg
+  - level: 20
+    spell: Broom of the Winds
+    tefo: CrAu
+  - level: 30
+    spell: Stone Tell of the Mind That Sits
+    tefo: InTe
+  - level: 25
+    spell: Eyes of the Bat
+    tefo: InAu
   - possession:
       weapon:
       - Dagger
