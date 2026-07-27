@@ -1,10 +1,8 @@
-title: Apprenticed in the Dead of Winter
+title: Own characters 
 description:
-- This is starter saga, intended for new players, who will play 
-  apprentices in dysfunctional Winter covenant.
-rootDirectory: pages/
+- Pseudo-saga for personal chargen .
+rootDirectory: output/
 characterFiles:
-- Data/janne.yaml
 - Data/odyssevs.yaml
 covenantFiles:
 - Data/covenant.yaml
