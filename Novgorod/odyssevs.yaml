@@ -124,10 +124,10 @@ pregameAdvancement:
     xp: 5
   - ability: Charm
     spec: 
-    xp: 5
+    xp: 15
   - ability: Folk Ken
     spec: Trade
-    xp: 5
+    xp: 15
   - ability: Stealth
     spec: Hiding
     xp: 5
@@ -135,11 +135,14 @@ pregameAdvancement:
   changes:
   - ability: Intrigue
     spec: New alliances
-    xp: 5
+    xp: 15
   - ability: Concentration
     spec: Spell Concentration
-    xp: 5
-  years: 5
+    xp: 15
+  - ability: Leadership
+    spec: Groups
+    xp: 15
+  years: 3
 - mode: Apprenticeship
   changes:
   - art: Creo
@@ -232,3 +235,4 @@ futureAdvancement:
   reads:
     book: RootHerbam
   comment: 'This should be a straight-forward reading season with everything specified.'
+

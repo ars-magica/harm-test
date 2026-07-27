@@ -5,7 +5,6 @@ description:
 rootDirectory: pages/
 characterFiles:
 - Data/janne.yaml
-- Data/odyssevs.yaml
 covenantFiles:
 - Data/covenant.yaml
 seasons:

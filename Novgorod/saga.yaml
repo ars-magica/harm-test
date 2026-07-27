@@ -3,9 +3,9 @@ description:
 - Pseudo-saga for personal chargen .
 rootDirectory: output/
 characterFiles:
-- Data/odyssevs.yaml
+- Novgorod/odyssevs.yaml
 covenantFiles:
-- Data/covenant.yaml
+- Novgorod/covenant.yaml
 seasons:
 - Spring 1204
 - Spring 1205
