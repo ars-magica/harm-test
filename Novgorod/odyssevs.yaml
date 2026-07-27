@@ -72,7 +72,7 @@ pregameAdvancement:
       Odyssevs is raised a Christian, but his reverence to Hermes is greater.
       Can he serve both gods?
   - cost: 3
-    virtue: Elementalist
+    virtue: Elemental Magic
     narrative: |
       Odyssevs natural aptitude for the elements made him a good apprentice
       to Salinator, who specialised in Aquam and Auram for the control of the
@@ -166,7 +166,7 @@ pregameAdvancement:
   - art: Aquam
     xp: 3
   - art: Auram
-    xp: 55
+    xp: 45
   - art: Corpus
     xp: 0
   - art: Herbam
@@ -178,7 +178,7 @@ pregameAdvancement:
   - art: Mentem
     xp: 0
   - art: Terram
-    xp: 9
+    xp: 19
   - art: Vim
     xp: 0
   - ability: Hermes Lore
@@ -219,11 +219,11 @@ pregameAdvancement:
   - level: 20
     spell: The Miner's Keen Eye
     tefo: InTe
-  - level: 5
-    spell: Image of the Beast
-    tefo: InAn
-  - level: 20
-    spell: Broom of the Winds
+  - level: 10
+    spell: Winter's Icy Touch
+    tefo: PeIg
+  - level: 15
+    spell:  Charge of the Angry Winds
     tefo: CrAu
   - level: 30
     spell: Stone Tell of the Mind That Sits
