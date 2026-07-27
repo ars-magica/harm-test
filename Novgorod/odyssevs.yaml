@@ -178,7 +178,7 @@ pregameAdvancement:
   - art: Mentem
     xp: 0
   - art: Terram
-    xp: 3
+    xp: 9
   - art: Vim
     xp: 0
   - ability: Hermes Lore
@@ -219,9 +219,9 @@ pregameAdvancement:
   - level: 20
     spell: The Miner's Keen Eye
     tefo: InTe
-  - level: 10
-    spell: Winter's Icy Touch
-    tefo: PeIg
+  - level: 5
+    spell: Image of the Beast
+    tefo: InAn
   - level: 20
     spell: Broom of the Winds
     tefo: CrAu
