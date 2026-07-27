@@ -1,0 +1,234 @@
+charID: odyssevs
+concept:
+  appearance: ""
+  born: 1230
+  charData:
+    Alma Mater: Trablinum of Transilvania
+    Casting Sigil: Rocking as of
+    Covenant: Zakiadnu
+    Nationality: Ukrainian
+    Saga: Novgorod Multi-Covenant Saga
+    Size: 0
+  charGlance: {}
+  charType: Magus
+  concept: Tremere Scout
+  house: Tremere
+  name: Odyssevs
+  player: George
+  quirk: ""
+pregameAdvancement:
+- mode: Virtues and Flaws
+  changes:
+  - comment: House Virtue
+    cost: 0
+    detail: Certamen
+    virtue: Minor Magical Focus
+  - cost: -3
+    detail: Build the Hermetic Civilisation
+    flaw: Higher Purpose (major)
+    narrative: |
+      Odyssevs have a vision of a great magical civilisation, founded
+      on the ancient powers of Hermes.
+  - cost: -1
+    flaw: Ambitious
+    narrative: |
+      Althought Odyssevs is driven by the greater good of the House and the
+      Order, he is very keen on taking the lead of its creation, and the
+      personal ambition occasionally distracts him from the greater good.
+  - comment: Story flaw
+    virtue: Enemies
+    detail: Faeries of the Sea
+    narrative: |
+      On one of the journeys on the Black Sea, Odyssevs and his master
+      came into foul weather.  Trying to make this a learning opportunity,
+      Salinator asked Odyssevs to make a spell to quiet the sea, but he botched,
+      and the result angered the Faerie King of the Sea. 
+
+      As a result, Odyssevs gave up his master's vocation, but he can nevery be 
+      sure that the king does not have agents upriver.
+    cost: -3
+  - cost: 3
+    detail: Satyr Blood
+    virtue: Strong Faerie Blood
+    narrative: |
+      His mother never told Odyssevs about the eerie encounter in the woods
+      on the Midsummer Night when she was betrothed to his father, and as a
+      child, the faeries were nothing but a story to him.  Getting older,
+      he has started to wonder about his appearance with unusually bright eyes
+      and short foot blades, and having encountered faeries elsewhere, he
+      is almost certain of some mystical heritage.
+  - cost: 1
+    detail: Intellego
+    virtue: Affinity with (art)
+  - cost: -1
+    flaw: Hallucinations
+    narrative: |
+      Odyssevs hears voices, in particular a deep and impressive basso voice 
+      which he attributes to Hermes.  He is convinced that it the ancient
+      god directs his endeavour to build an empire in his name.
+  - cost: -1
+    flaw: Uncertain faith
+    narrative: |
+      Odyssevs is raised a Christian, but his reverence to Hermes is greater.
+      Can he serve both gods?
+  - cost: 3
+    virtue: Elementalist
+    narrative: |
+      Odyssevs natural aptitude for the elements made him a good apprentice
+      to Salinator, who specialised in Aquam and Auram for the control of the
+      weather at sea.
+  - cost: -1
+    flaw: Sleep disorder
+    narrative: |
+      Odyssevs is easily bored, and when he zones out, he easily falls asleep.
+      When he is busy on a project or distracted by an idea, he can work until 
+      the early hours.
+
+
+  - ptrait: Uncertain faith
+    score: 1
+  - ptrait: Collaborative
+    score: 1
+  - ptrait: Ambitious
+    score: 3
+  - ptrait: Empire builder
+    score: 6
+- mode: Characteristics
+  changes:
+  - characteristic: Int
+    score: +2
+  - characteristic: Per
+    score: +2
+  - characteristic: Pre
+    score: 0
+  - characteristic: Com
+    score: +2
+  - characteristic: Sta
+    score: +1
+  - characteristic: Str
+    score: -1
+  - characteristic: Dex
+    score: -1
+  - characteristic: Qik
+    score: -1
+- mode: Early Childhood
+  changes:
+  - ability: 'Native Language: Ukrainian'
+    spec: Coastal
+    xp: 75
+  - ability: 'Area Lore: Don estuary'
+    spec: Trade
+    xp: 5
+  - ability: Awareness
+    spec: Searching
+    xp: 5
+  - ability: Charm
+    spec: 
+    xp: 5
+  - ability: Folk Ken
+    spec: Trade
+    xp: 5
+  - ability: Stealth
+    spec: Hiding
+    xp: 5
+- mode: Later Life
+  changes:
+  - ability: Intrigue
+    spec: New alliances
+    xp: 5
+  - ability: Concentration
+    spec: Spell Concentration
+    xp: 5
+  years: 5
+- mode: Apprenticeship
+  changes:
+  - art: Creo
+    xp: 0
+  - art: Intellego
+    xp: 55
+  - art: Muto
+    xp: 15
+  - art: Perdo
+    xp: 0
+  - art: Rego
+    xp: 0
+  - art: Animal
+    xp: 0
+  - art: Aquam
+    xp: 0
+  - art: Auram
+    xp: 0
+  - art: Corpus
+    xp: 15
+  - art: Herbam
+    xp: 0
+  - art: Ignem
+    xp: 0
+  - art: Imaginem
+    xp: 0
+  - art: Mentem
+    xp: 0
+  - art: Terram
+    xp: 15
+  - art: Vim
+    xp: 0
+  - ability: Hermes Lore
+    spec: Hibernia
+    xp: 5
+  - ability: Artes Liberales
+    spec: Ritual Casting
+    xp: 5
+  - ability: Latin
+    spec: Hermetic Usage
+    xp: 50
+  - ability: Tremere Lore
+    spec: House priorities
+    xp: 5
+    narrative: |
+      Far from an expert on the organisation, Odyssevs seems to have a particular
+      speciality of discerning what is important to his superiors, and not onlu
+      his immediate superior.
+
+  - ability: Hermes Code
+    spec: Certamen 
+    xp: 5
+  - ability: Magic Theory
+    spec: Spells
+    xp: 30
+  - ability: Parma Magica
+    spec: Mentem
+    xp: 5
+  - ability: Finesse
+    spec: Rego
+    xp: 5
+  - ability: Penetration
+    spec: Rego
+    xp: 5
+  - possession:
+      weapon:
+      - Dagger
+  - possession:
+      weapon:
+      - Quarterstaff
+  - possession:
+      name: Writing Materials
+  - combat:
+      weapon: Dodge
+  - combat:
+      weapon: Fist
+  - combat:
+      weapon: Knife
+  - multiplicity: 1
+    possession: Lantern
+futureAdvancement:
+- season: Spring 1220
+  mode: Reading
+  changes:
+  - art: Herbam
+    levelCap: 6
+    xp: 24
+  narrative: Studies *Root of Herbam* L6 Q21 +3
+  sourceQuality: 21
+  reads:
+    book: RootHerbam
+  comment: 'This should be a straight-forward reading season with everything specified.'
