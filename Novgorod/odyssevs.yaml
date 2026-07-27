@@ -116,8 +116,8 @@ pregameAdvancement:
   - ability: 'Native Language: Ukrainian'
     spec: Coastal
     xp: 75
-  - ability: 'Area Lore: Don estuary'
-    spec: Trade
+  - ability: 'Area Lore: Kievan Rus'
+    spec: Don valley
     xp: 5
   - ability: Awareness
     spec: Searching
