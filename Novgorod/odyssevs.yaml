@@ -250,16 +250,30 @@ pregameAdvancement:
       weapon: Knife
   - multiplicity: 1
     possession: Lantern
-futureAdvancement:
-- season: Spring 1220
-  mode: Reading
+- mode: Post Gauntlet
+  years: 2
   changes:
-  - art: Herbam
-    levelCap: 6
-    xp: 24
-  narrative: Studies *Root of Herbam* L6 Q21 +3
-  sourceQuality: 21
-  reads:
-    book: RootHerbam
-  comment: 'This should be a straight-forward reading season with everything specified.'
+  - ability: Magic Theory
+    xp: 50
+  - art: Intellego
+    xp: 5
+  - art: Auram
+    xp: 5
+- mode: Post Gauntlet
+  years: 1
+  comment:
+    - Two seasons to prepare and attune talisman.
+    - The talisman is a
+      sturdy staff of oak wood (+7 protection from storms) struck by lightning (Auram +2),
+      with a heavy brass (+3 music, +3 Ignem, +4 demons, devils, and angels)
+      shoe at one end and a lighter, more ornament silver
+      (+1 Terram, +2 Intellego, +3 protect spirits,
+      +5 lycanthropes in general, +10 harm lycanthrope),
+      cap at the top.
+      Under the silver cap, there are pieces of 
+      Mercury ( +3 arts and sciences, +3 Aquam, +3 Terram, +5 Muto )
+      and Cinamon (+2 destroying ghosts, +4 Imaginem).
+    - The talisman is opened with 10p vis (the brass shoe is $2\times5$ for small
+      base metal.  The staff is large wood ($4\times2$), the others pieces
+      are tiny and less than 10.
 
