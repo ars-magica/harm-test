@@ -1,6 +1,6 @@
 # (C) 2026: Hans Georg Schaathun <hg+gamer@schaathun.net>
 
-H=../harm/bin/harm
+H=harm
 F=Data/covenant.yaml Data/janne.yaml
 
 pages: Data/saga.yaml $F .force
