@@ -38,12 +38,13 @@ pregameAdvancement:
   - comment: Story flaw
     virtue: Enemies
     detail: Faeries of the Sea
-    narrative: |
+    narrative: 
+    - |
       On one of the journeys on the Black Sea, Odyssevs and his master
       came into foul weather.  Trying to make this a learning opportunity,
       Salinator asked Odyssevs to make a spell to quiet the sea, but he botched,
       and the result angered the Faerie King of the Sea. 
-
+    - |
       As a result, Odyssevs gave up his master's vocation, but he can nevery be 
       sure that the king does not have agents upriver.
     cost: -3
@@ -85,6 +86,8 @@ pregameAdvancement:
       the early hours.
   - cost: 1
     virtue: Good teacher
+  - cost: 1
+    virtue: Good student
   - cost: 1
     virtue: Venus' Blessing
     narrative: |
