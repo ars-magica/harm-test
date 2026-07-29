@@ -34,7 +34,7 @@ jobs:
         with:
           repository: 'ars-magica/harm'
           latest: true
-          preRelease: true
+          preRelease: false
           fileName: 'harm'
           out-file-path: './bin/'
 
