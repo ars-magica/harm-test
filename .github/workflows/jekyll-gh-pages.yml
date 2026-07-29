@@ -49,6 +49,10 @@ jobs:
           ls -lR pages
       - name: Build Project
         uses: ./.github/actions/mystmd
+      - name: validate
+        shell: bash
+        run: |
+          ls -lR pages
 
   # Deployment job
   deploy:
