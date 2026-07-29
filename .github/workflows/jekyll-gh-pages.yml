@@ -42,7 +42,7 @@ jobs:
         shell: bash
         run: |
           chmod a+x ./bin/harm
-          ./bin/harm -s Data/hibernia.json
+          ./bin/harm -s Data/saga.yaml
 
       - name: Setup Python 3.x
         uses: actions/setup-python@v4
