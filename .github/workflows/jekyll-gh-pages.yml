@@ -46,6 +46,7 @@ jobs:
 
   mystmd:
     runs-on: ubuntu-latest
+    needs: build
     steps:
       - uses: actions/checkout@v4
       - name: Build Project
@@ -57,7 +58,7 @@ jobs:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
     runs-on: ubuntu-latest
-    needs: build
+    needs: mystmd
     steps:
       - name: Deploy to GitHub Pages
         id: deployment
