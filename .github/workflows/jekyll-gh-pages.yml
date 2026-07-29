@@ -41,6 +41,7 @@ jobs:
       - name: hArM
         shell: bash
         run: |
+          chmod a+x ./bin/harm
           ./bin/harm -s Data/hibernia.json
 
       - name: Setup Python 3.x
