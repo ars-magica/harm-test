@@ -4,7 +4,7 @@ name: Deploy Jekyll with GitHub Pages dependencies preinstalled
 on:
   # Runs on pushes targeting the default branch
   push:
-    branches: ["workflowtest"]
+    branches: ["main"]
 
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
@@ -28,6 +28,16 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v4
+
+      - name: Download binary
+        uses: robinraju/release-downloader@v1
+        with:
+          repository: 'ars-magica/harm'
+          latest: true
+          preRelease: true
+          fileName: 'harm'
+          out-file-path: './bin/'
+
       - name: hArM
         shell: bash
         run: |
