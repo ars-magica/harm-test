@@ -2,15 +2,15 @@ title: Apprenticed in the Dead of Winter
 description:
 - This is starter saga, intended for new players, who will play 
   apprentices in dysfunctional Winter covenant.
-rootDirectory: pages/
+rootDirectory: pages/harm/
 characterFiles:
 - Data/janne.yaml
 covenantFiles:
 - Data/covenant.yaml
 seasons:
-- Spring 1204
-- Spring 1205
+### - Spring 1204
+### - Spring 1205
 - Spring 1206
-spellFile: Data/spells.csv
+spellFile: Data/spells.yaml
 weaponFile: Data/weapons.csv
 armourFile: Data/armour.csv
